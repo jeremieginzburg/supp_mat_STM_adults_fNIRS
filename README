@@ -1,0 +1,6 @@
+## Examples of stimulation trials : S1 - Delay - S2
+#expX : indicates the experiment
+#percep/memo : perception or memory trials (for exp 1)
+#mu/ve : musical or verbal material
+#same/diff : trials for which S2 is the same or different from S1
+#mlX : memory load level (for exp 2)
