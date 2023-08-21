@@ -2,5 +2,5 @@
 #expX : indicates the experiment
 #percep/memo : perception or memory trials (for exp 1)
 #mu/ve : musical or verbal material
-#same/diff : trials for which S2 is the same or different from S1
+#same/diff : trials for which the expected andwer is same or different
 #mlX : memory load level (for exp 2)
